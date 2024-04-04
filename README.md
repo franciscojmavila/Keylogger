@@ -5,4 +5,4 @@ En segundo lugar, se presenta un script de shell que, dependiendo de la fecha de
 En resumen, este código combina la funcionalidad de registro de pulsaciones de teclas con un mecanismo de autodestrucción o cambio de comportamiento basado en la fecha del sistema.
 
 # - Advertencia -
-Es fundamental tener en cuenta que este material se comparte exclusivamente con fines educativos. El autor no asume responsabilidad alguna por cualquier mal uso o consecuencias adversas derivadas de su implementación.
+Es fundamental tener en cuenta que este material se comparte exclusivamente con fines educativos. No asumo responsabilidad alguna por cualquier mal uso o consecuencias adversas derivadas de su implementación.
